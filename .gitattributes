@@ -1,0 +1,2 @@
+# Show Arduino sketches as C++ in GitHub's language stats and syntax highlighting
+*.ino linguist-language=C++
